@@ -1,5 +1,5 @@
 # cs96-git-workshop
-Sandbox repo for Git workshop in CS 96r
+Sandbox repo for Git workshop in Harvard's CS96r course
 
 Class roster:
 Catherine
