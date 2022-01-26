@@ -1,2 +1,4 @@
 # cs96-git-workshop
-Sandbox repo for Git workshop
+Git workshop for Harvard CS 96r
+
+Catherine Yeo
